@@ -31,7 +31,7 @@ import yfinance as yf
 
 tesla_data = yf.download("TSLA", start="2010-01-01", end="2022-12-31")
 gme_data = yf.download("GME", start="2010-01-01", end="2022-12-31")
-
+```
 ### 2. Extract Revenue Data via Web Scraping
 Scrape Tesla and GameStop quarterly revenue data from financial pages using BeautifulSoup:
 from bs4 import BeautifulSoup
