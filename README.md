@@ -66,7 +66,7 @@ Install required libraries:
 pip install yfinance pandas plotly beautifulsoup4 matplotlib
 Open the Jupyter Notebook or Google Colab file and run all cells step-by-step.
 
-##👤 Author
+👤 Author
 
 [Kaung Si Thu]
 
